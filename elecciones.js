@@ -32,7 +32,7 @@ axios(url).then(({ data }) => {
             chalk.white(nombre),
             chalk.green(`Votos: ${votos}`),
             chalk.yellow(`Porcentaje: ${porcentaje}`),
-            chalk.red(clasificacion),
+            chalk.red(clasificacion)
         );
 
     });
