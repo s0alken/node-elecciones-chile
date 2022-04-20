@@ -7,11 +7,11 @@ Tener instalado Node.js en tu máquina
 
 # Uso
 
-Instala las dependencias
+Instala las dependencias:
 
     npm install
 
-Ejecuta en tu terminal de preferencia
+Ejecuta en tu terminal de preferencia:
 
     node elecciones
 
