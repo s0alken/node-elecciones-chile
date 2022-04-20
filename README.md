@@ -18,4 +18,4 @@ Ejecuta en tu terminal de preferencia:
 Para ver los datos actualizados simplemente vuelve a ejecutar el script
 
 ### Screenshot
-![screenshot](https://user-images.githubusercontent.com/57046544/164153381-1a953893-7092-4d97-b330-054a76d76952.png)
+![screenshot](https://user-images.githubusercontent.com/57046544/164158119-d3eda5a3-09c9-44b0-9391-3842696de397.png)
