@@ -15,7 +15,7 @@ Ejecuta en tu terminal de preferencia
 
     node elecciones
 
-Para ver datos actualizados simplemente vuelve a ejecutar el script
+Para ver los datos actualizados simplemente vuelve a ejecutar el script
 
 ### Screenshot
 ![screenshot](https://user-images.githubusercontent.com/57046544/164153381-1a953893-7092-4d97-b330-054a76d76952.png)
