@@ -49,7 +49,7 @@ axios(url).then(({ data }) => {
     const mesasEscrutadas = datos.mesasEscrutadas;
     const mesasFaltantes = Number(totalMesas.replace(/\./g, '')) - Number(mesasEscrutadas.replace(/\./g, ''));
     const porcentajeMesasEscrutadas = parseFloat(datos.totalMesasPorcent.replace(',', '.'));
-    const porcentajeMesasFaltantes = (100 - porcentajeMesasEscrutadas).toFixed(2).toString().replace('.', ',');
+    const porcentajeMesasFaltantes = (100 - porcentajeMesasEscrutadas).toFixed(2).replace('.', ',');
 
     console.log(chalk.cyan(`Total mesas: ${datos.totalMesas}`));
     console.log(chalk.cyan(`Mesas escrutadas ${datos.mesasEscrutadas} (${datos.totalMesasPorcent})`));
